@@ -22,6 +22,10 @@
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+If you're looking for a skilled software engineer with an attention to detail, and a passion for technology, I would love to connect with you. Let's explore how I can contribute to your team and help drive your business forward.
+
+Dual Citizen: United States & United Kingdom
+
 <!--
 **rdonald/rdonald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
