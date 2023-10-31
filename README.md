@@ -13,7 +13,7 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![Apache-Kafka](https://img.shields.io/badge/ApacheKafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![JIRA](https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=javascript&logoColor=white)
+![JIRA](https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 <!--
 **rdonald/rdonald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
