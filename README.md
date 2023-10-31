@@ -11,6 +11,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=microsoftsqlserver&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Apache-Kafka](https://img.shields.io/badge/Apache-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=black)
 
 <!--
 **rdonald/rdonald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
